@@ -1,5 +1,5 @@
 # TRAINITY-DATA-ANALYTICS-PROCESS
-## Application in Real Life Scenario Case Study
+## Application in Real Life Scenario Case Study | Finding Best Online Certification Course
 VIDEO EXPLAINING PROJECT : https://youtu.be/f9EEx-1uzo0 <br>
 MEDIUM BLOG LINK : https://medium.com/@sudhansukumar2556/trainity-data-analytics-process-9e699ee1cd8e
 
